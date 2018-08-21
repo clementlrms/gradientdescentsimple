@@ -1,4 +1,5 @@
 
+######## This script implements the Gradient Descent for a simple Linear Regression #########
 # we want to define y = f(x) so that y = f(x) = w0 + w1*x
 # y is therefore a linear combination of x, it is a single variable function of x
 
